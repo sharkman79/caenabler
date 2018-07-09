@@ -1,2 +1,0 @@
-# caenabler
-device autenthication
